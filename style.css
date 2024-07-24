@@ -1,0 +1,18 @@
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    height: 100vh;
+    background-image: url(imgs/logos/dickheadnotext.jpg);
+    background-size: 75px;
+}
+
+.dickheadtxt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 898px;
+    height: 474px;
+}
