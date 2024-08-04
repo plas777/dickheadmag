@@ -1,0 +1,27 @@
+.body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    height: 100vh;
+    background-image: url(../imgs/logos/dickheadnotext.jpg);
+    background-size: 75px;
+}
+
+.dickheadlogo {
+    position: absolute;
+    top: 10rem;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    height: 20rem;
+    filter: saturate(150%)
+}
+
+.btns {
+    position: absolute;
+    height: 37rem;
+    width: 24rem;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 39rem;
+    background-color: white;
+}
